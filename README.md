@@ -1,5 +1,5 @@
 # include-https
-Weird hack for `#include`-ing files over https
+Weird hack for `#include`-ing files over https  
 Tested only with github raw stuff  
 Use at your own risk  
 
